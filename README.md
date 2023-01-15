@@ -3,8 +3,11 @@ Computational Optimization Using Neural Network and K-Mean Cluster Algorithm
 
 ## Thesis Team Mates
 Shafait Azam- Algorithm deploy, Data Analysis and Accuracy Analysis with Python.
+
 Rakib Mamun Joarder- Programmer MATLAB.
+
 Pratik Saha Joy- Documentation and ppt.
+
 Fahima Rahman- Theoritical aspects analysis.
 
 
